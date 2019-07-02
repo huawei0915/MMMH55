@@ -1,7 +1,7 @@
 body{
     /* background:chocolate; */
     /* background:rgba(255, 255,255,.8); */
-    background: url("/images/restaurant_icons.png");
+    background: url("images/restaurant_icons.png");
     /* filter: blur(3px); */
     text-align: center;
     text-align: justify;

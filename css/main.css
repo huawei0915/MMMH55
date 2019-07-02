@@ -5,7 +5,7 @@
     transition: .5s;
 }
 .navbar-brand{
-    background: url("/img/四秀-2.svg") no-repeat 50% 50%;
+    background: url("img/四秀-2.svg") no-repeat 50% 50%;
     padding-left: 150px;
     font-weight: 700;
 }
