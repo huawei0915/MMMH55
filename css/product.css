@@ -36,14 +36,14 @@
 .left-bg{
     width: 50vw;
     height: 100%;
-    background: url("img/about-1.jpg")0 center no-repeat fixed;
+    background: url("img\about-1.jpg") 0 center no-repeat fixed;
     background-size: contain;
     overflow: hidden;
 }
 .left-bg2{
     width: 50vw;
     height: 100%;
-    background: url("img/147155261.jpg")0 center no-repeat  fixed;
+    background: url("img\147155261.jpg") 0 center no-repeat  fixed;
     background-size: contain;
     overflow: hidden;
     
@@ -51,7 +51,7 @@
 .left-bg3{
     width: 50vw;
     height: 100%;
-    background: url("img/1658033ef625a00.jpg")0 center no-repeat fixed;
+    background: url("img\1658033ef625a00.jpg") 0 center no-repeat fixed;
     background-size: contain;
     overflow: hidden;
 }
